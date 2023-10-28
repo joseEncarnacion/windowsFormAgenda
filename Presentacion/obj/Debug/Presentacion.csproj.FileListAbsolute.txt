@@ -12,3 +12,17 @@ C:\Users\JDELORBE\Desktop\Prog2\Aelectronica\Presentacion\obj\Debug\Presentacion
 C:\Users\JDELORBE\Desktop\Prog2\Aelectronica\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
 C:\Users\JDELORBE\Desktop\Prog2\Aelectronica\Presentacion\obj\Debug\Presentacion.exe
 C:\Users\JDELORBE\Desktop\Prog2\Aelectronica\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Usuario\Pictures\practica Cursos\Cuatrimestre 6\tutorias\windowsFormsAgenda\Prog2\Aelectronica\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Usuario\Pictures\practica Cursos\Cuatrimestre 6\tutorias\windowsFormsAgenda\Prog2\Aelectronica\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Usuario\Pictures\practica Cursos\Cuatrimestre 6\tutorias\windowsFormsAgenda\Prog2\Aelectronica\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Usuario\Pictures\practica Cursos\Cuatrimestre 6\tutorias\windowsFormsAgenda\Prog2\Aelectronica\Presentacion\bin\Debug\Datos.dll
+C:\Users\Usuario\Pictures\practica Cursos\Cuatrimestre 6\tutorias\windowsFormsAgenda\Prog2\Aelectronica\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Usuario\Pictures\practica Cursos\Cuatrimestre 6\tutorias\windowsFormsAgenda\Prog2\Aelectronica\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Usuario\Pictures\practica Cursos\Cuatrimestre 6\tutorias\windowsFormsAgenda\Prog2\Aelectronica\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Pictures\practica Cursos\Cuatrimestre 6\tutorias\windowsFormsAgenda\Prog2\Aelectronica\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\Usuario\Pictures\practica Cursos\Cuatrimestre 6\tutorias\windowsFormsAgenda\Prog2\Aelectronica\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Usuario\Pictures\practica Cursos\Cuatrimestre 6\tutorias\windowsFormsAgenda\Prog2\Aelectronica\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Usuario\Pictures\practica Cursos\Cuatrimestre 6\tutorias\windowsFormsAgenda\Prog2\Aelectronica\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Pictures\practica Cursos\Cuatrimestre 6\tutorias\windowsFormsAgenda\Prog2\Aelectronica\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Usuario\Pictures\practica Cursos\Cuatrimestre 6\tutorias\windowsFormsAgenda\Prog2\Aelectronica\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Usuario\Pictures\practica Cursos\Cuatrimestre 6\tutorias\windowsFormsAgenda\Prog2\Aelectronica\Presentacion\obj\Debug\Presentacion.pdb

@@ -4,3 +4,9 @@ C:\Users\JDELORBE\Desktop\Prog2\Aelectronica\Datos\obj\Debug\Datos.csproj.Assemb
 C:\Users\JDELORBE\Desktop\Prog2\Aelectronica\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
 C:\Users\JDELORBE\Desktop\Prog2\Aelectronica\Datos\obj\Debug\Datos.dll
 C:\Users\JDELORBE\Desktop\Prog2\Aelectronica\Datos\obj\Debug\Datos.pdb
+C:\Users\Usuario\Pictures\practica Cursos\Cuatrimestre 6\tutorias\windowsFormsAgenda\Prog2\Aelectronica\Datos\bin\Debug\Datos.dll
+C:\Users\Usuario\Pictures\practica Cursos\Cuatrimestre 6\tutorias\windowsFormsAgenda\Prog2\Aelectronica\Datos\bin\Debug\Datos.pdb
+C:\Users\Usuario\Pictures\practica Cursos\Cuatrimestre 6\tutorias\windowsFormsAgenda\Prog2\Aelectronica\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Pictures\practica Cursos\Cuatrimestre 6\tutorias\windowsFormsAgenda\Prog2\Aelectronica\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Pictures\practica Cursos\Cuatrimestre 6\tutorias\windowsFormsAgenda\Prog2\Aelectronica\Datos\obj\Debug\Datos.dll
+C:\Users\Usuario\Pictures\practica Cursos\Cuatrimestre 6\tutorias\windowsFormsAgenda\Prog2\Aelectronica\Datos\obj\Debug\Datos.pdb
