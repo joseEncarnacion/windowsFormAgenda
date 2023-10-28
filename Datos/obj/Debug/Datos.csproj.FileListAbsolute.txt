@@ -1,0 +1,6 @@
+C:\Users\JDELORBE\Desktop\Prog2\Aelectronica\Datos\bin\Debug\Datos.dll
+C:\Users\JDELORBE\Desktop\Prog2\Aelectronica\Datos\bin\Debug\Datos.pdb
+C:\Users\JDELORBE\Desktop\Prog2\Aelectronica\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\JDELORBE\Desktop\Prog2\Aelectronica\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\JDELORBE\Desktop\Prog2\Aelectronica\Datos\obj\Debug\Datos.dll
+C:\Users\JDELORBE\Desktop\Prog2\Aelectronica\Datos\obj\Debug\Datos.pdb

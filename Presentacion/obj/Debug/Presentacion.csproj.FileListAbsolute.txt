@@ -1,0 +1,14 @@
+C:\Users\JDELORBE\Desktop\Prog2\Aelectronica\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\JDELORBE\Desktop\Prog2\Aelectronica\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\JDELORBE\Desktop\Prog2\Aelectronica\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\JDELORBE\Desktop\Prog2\Aelectronica\Presentacion\bin\Debug\Datos.dll
+C:\Users\JDELORBE\Desktop\Prog2\Aelectronica\Presentacion\bin\Debug\Datos.pdb
+C:\Users\JDELORBE\Desktop\Prog2\Aelectronica\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\JDELORBE\Desktop\Prog2\Aelectronica\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\JDELORBE\Desktop\Prog2\Aelectronica\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\JDELORBE\Desktop\Prog2\Aelectronica\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\JDELORBE\Desktop\Prog2\Aelectronica\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\JDELORBE\Desktop\Prog2\Aelectronica\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\JDELORBE\Desktop\Prog2\Aelectronica\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\JDELORBE\Desktop\Prog2\Aelectronica\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\JDELORBE\Desktop\Prog2\Aelectronica\Presentacion\obj\Debug\Presentacion.pdb
